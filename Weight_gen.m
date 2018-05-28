@@ -1,4 +1,4 @@
-
+load HKnet.mat
 
 SequenceLength = 30;
 WormUp_Time = 5;
